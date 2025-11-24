@@ -79,7 +79,7 @@
     width: 380px;
     height: 380px;
     background-image: url(../images/Dana-Macdougall03V2.jpg);
-    background-position: center;
+    background-position: top;
     background-size: cover;
     border: 8px solid #FFFFFF;
     border-radius: 50%;
@@ -88,7 +88,6 @@
     left: 50%;
     transform: translateX(-50%);
 }
-
 @media (max-width: 768px) {
     .section-1 {
         height: 390px;
