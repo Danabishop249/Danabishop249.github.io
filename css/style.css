@@ -1189,7 +1189,7 @@
 /* Base tile style */
 .tile {
   width: 100%;
-  height: 100px;          /* adjust height as needed */
+  height: 150px;          /* adjust height as needed */
   border-radius: 8px;
 }
 
